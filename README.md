@@ -3,7 +3,7 @@
 ![Project Speed Racer Image](files/codename_logo.jpg)
 
 ## Tagline
-Fresh food, fresh reviews!
+> Fresh food, fresh reviews!
 
 ## Concept
 This app lets customers to share their reviews about food. [tbd]
