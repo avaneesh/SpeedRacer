@@ -36,4 +36,4 @@ This app lets customers to share their reviews about food. [tbd]
 
 **Analytics**
 * Use case #101: [Optional] Send push notifications when user arrives at a restaurant with the list of food he/she liked list time
-* Use case #102: [Highly Optional :)] Analyse user preferences and provide suggestions about cuisine and restaurants.
+* Use case #102: [Highly Optional :laughing:] Analyse user preferences and provide suggestions about cuisine and restaurants.
