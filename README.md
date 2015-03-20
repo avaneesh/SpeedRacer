@@ -10,15 +10,15 @@ This app lets customers to share their reviews about food. [tbd]
 
 ## Use Cases
 
-** Sign In and Sign up **
+**Sign In and Sign up**
 * Use case #1: Sign up the service using either Facebook, Twitter or native login
 * Use case #1.1: Auto-sign in when app starts unless explit sign-out was performed.
 * Use case #1.2: [Highly Desirable] Provide Owner login to facilitate 'Sponsored posts'
 
-** Selecting the resturant wall **
+**Selecting the resturant wall**
 * Use case #2: Select a restaurant of interest from the list of nearby restaurants [tbd from where to fetch 'nearby restaurant list']
 
-** Viewing the feed **
+**Viewing the feed**
 * Use case #3: Main page shows feed of posts from customers of this restaurant
 * Use case #3.1: [Optional] User can 'thumbs up/down' a post
 * Use case #3.2: Feed is inititely scrollable, pull-to-refresh, auto-refresh
@@ -26,7 +26,7 @@ This app lets customers to share their reviews about food. [tbd]
 * Use case #3.4: [Desirable] A very intuitive sorting of posts - Dish vs Service. Appetiser vs deserts. Most liked vs disliked etc
 
 
-** Posting a review **
+**Posting a review**
 * Use case #4: Post a reivew about a dish 
 * Use case #4.1: Posting is done with minimum number of touches - select dish from list, select star rating (1, 2 or 3) [tbd from where to fetch 'menu with list of dishes']
 * Use case #4.2:
@@ -34,6 +34,6 @@ This app lets customers to share their reviews about food. [tbd]
 * Use case #6: Any post is visible in the feed only for 2 hours
 * Use case #6.1: Post is saved in user profile forever
 
-** Analytics **
+**Analytics**
 * Use case #101: [Optional] Send push notifications when user arrives at a restaurant with the list of food he/she liked list time
 * Use case #102: [Highly Optional :)] Analyse user preferences and provide suggestions about cuisine and restaurants.
