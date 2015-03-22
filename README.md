@@ -23,7 +23,7 @@ This app lets customers to share their reviews about food. [**TBD**]
 * Use case #3.1: [Optional] User can 'thumbs up/down' a post
 * Use case #3.2: Feed is inititely scrollable, pull-to-refresh, auto-refresh
 * Use case #3.3: [Highly Desirable] Allow 'Sponsored posts' from Owner to be shown with stand-out characteristics [**TBD** how?]
-* Use case #3.4: [Desirable] A very intuitive sorting of posts - Dish vs Service. Appetiser vs deserts. Most liked vs disliked etc
+* Use case #3.4: [Desirable] A very intuitive sorting of posts - Dish vs Service. Appetizer vs deserts. Most liked vs disliked etc
 
 
 **Posting a review**
