@@ -6,7 +6,7 @@
 > Fresh food, fresh reviews!
 
 ## Concept
-This app lets customers to share their reviews about food. [**TODO**]
+This app lets customers to share their reviews about food. [**TBD**]
 
 ## Use Cases
 
@@ -16,19 +16,19 @@ This app lets customers to share their reviews about food. [**TODO**]
 * Use case #1.2: [Highly Desirable] Provide Owner login to facilitate 'Sponsored posts'
 
 **Selecting the resturant wall**
-* Use case #2: Select a restaurant of interest from the list of nearby restaurants [*TBD* from where to fetch 'nearby restaurant list']
+* Use case #2: Select a restaurant of interest from the list of nearby restaurants [**TBD** from where to fetch 'nearby restaurant list']
 
 **Viewing the feed**
 * Use case #3: Main page shows feed of posts from customers of this restaurant
 * Use case #3.1: [Optional] User can 'thumbs up/down' a post
 * Use case #3.2: Feed is inititely scrollable, pull-to-refresh, auto-refresh
-* Use case #3.3: [Highly Desirable] Allow 'Sponsored posts' from Owner to be shown with stand-out characteristics [*TBD* how?]
+* Use case #3.3: [Highly Desirable] Allow 'Sponsored posts' from Owner to be shown with stand-out characteristics [**TBD** how?]
 * Use case #3.4: [Desirable] A very intuitive sorting of posts - Dish vs Service. Appetiser vs deserts. Most liked vs disliked etc
 
 
 **Posting a review**
 * Use case #4: Post a reivew about a dish 
-* Use case #4.1: Posting is done with minimum number of touches - select dish from list, select star rating (1, 2 or 3) [*TBD* from where to fetch 'menu with list of dishes']
+* Use case #4.1: Posting is done with minimum number of touches - select dish from list, select star rating (1, 2 or 3) [**TBD** from where to fetch 'menu with list of dishes']
 * Use case #4.2:
 * Use case #5: Post a review about service
 * Use case #6: Any post is visible in the feed only for 2 hours
