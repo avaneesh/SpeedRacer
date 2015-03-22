@@ -6,7 +6,7 @@
 > Fresh food, fresh reviews!
 
 ## Concept
-This app lets customers to share their reviews about food. [*TBD*]
+This app lets customers to share their reviews about food. [**TODO**]
 
 ## Use Cases
 
